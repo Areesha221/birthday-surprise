@@ -39,13 +39,13 @@ export default function FinalMessage() {
           Thank you for being part of my life,
         </h2>
         <h1 className="font-script text-6xl md:text-8xl gold-text mb-8">
-          Sir Ji
+          lrkiii
         </h1>
         <p className="font-hand text-2xl text-navy/80 max-w-xl mx-auto">
           Today, tomorrow, and always — I'm grateful for you.
-          Happy Birthday babezzzzzz. 🎂✨
+          Happy Birthday lrkiii. 🎂✨
         </p>
-        <div className="mt-12 text-gold text-xl">— Forever your Lovee 💙</div>
+        <div className="mt-12 text-gold text-xl">— Forever yours 💙</div>
       </motion.div>
     </section>
   )

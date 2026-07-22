@@ -2,18 +2,18 @@ import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 
 const secrets = [
-  "Remember when we laughed until we cried? 🌟",
-  "You're stronger than you think 💪",
-  "The world is better with you in it 💙",
-  "Your kindness changes lives 🌸",
-  "Never forget how special you are ✨",
-  "The best is yet to come 🌅",
-  "You make the world better 🌍",
-  "I'll always have your back 🤝",
-  "Your dreams matter 🌙",
-  "You're one of a kind 💎",
-  "Keep shining, Sir Ji ⭐",
-  "You deserve the universe 🌌",
+  "Remember when we laughed until our stomachs hurt? 🌟",
+  "You're stronger and braver than you think 💪",
+  "The world is genuinely better with you in it 💙",
+  "Your kindness and heart change people's lives 🌸",
+  "Never forget how incredibly special you are ✨",
+  "The best chapter of your life is yet to come 🌅",
+  "You bring so much light into the world 🌍",
+  "I'll always have your back, no matter what 🤝",
+  "Your dreams are valid and they matter 🌙",
+  "You are truly one of a kind 💎",
+  "Keep shining, bestie! ⭐",
+  "You deserve the whole universe 🌌",
 ]
 
 export default function SecretStars() {

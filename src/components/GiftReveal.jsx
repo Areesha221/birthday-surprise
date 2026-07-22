@@ -51,12 +51,12 @@ export default function GiftReveal() {
               >
                 💙
               </motion.div>
-              <h3 className="font-script text-5xl gold-text mb-4">You are the gift, Sir Ji</h3>
+              <h3 className="font-script text-5xl gold-text mb-4">You are the gift, lrkiii</h3>
               <p className="font-hand text-2xl text-navy">
-                You have no idea how incredibly special you are to me. I look at you and I just know I want this forever. Enjoy your surprise, my love! 😘❤️
+                You have no idea how incredibly special you are to me. I look at you and I just know I want this forever. Enjoy your surprise 😘❤️
               </p>
               <p className="font-hand text-2xl text-navy"> 
-                Happy Birthday, my loveeee. 🎂
+                Happy Birthday, lrkiii. 🎂
               </p>
               <img src="/images/sirji.jpg" alt=""
                    className="w-40 h-40 rounded-full mx-auto mt-6 border-4 border-gold object-cover"

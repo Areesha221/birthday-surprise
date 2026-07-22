@@ -2,12 +2,12 @@ import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 
 const photos = [
-  { src: '/images/p1.jpg', caption: 'My favorite place is next to you 💙' },
-  { src: '/images/p2.jpg', caption: 'The day I knew you were the one 🌹' },
-  { src: '/images/p3.jpg', caption: 'My forever favorite memory 💕' },
-  { src: '/images/p4.jpg', caption: 'My safe place, my home 🫂' },
-  { src: '/images/p5.jpg', caption: 'Laughing with you is my therapy 😂❤️' },
-  { src: '/images/p6.jpg', caption: 'Today, tomorrow, and always ✨' },
+  { src: '/images/p1.jpg', caption: 'My favorite place is by your side 💙' },
+  { src: '/images/p2.jpg', caption: 'The day I knew we\'d be besties forever 🌹' },
+  { src: '/images/p3.jpg', caption: 'One of my forever favorite memories 💕' },
+  { src: '/images/p4.jpg', caption: 'You\'re my safe place and my comfort zone 🫂' },
+  { src: '/images/p5.jpg', caption: 'Laughing with you is my favorite therapy ❤️' },
+  { src: '/images/p6.jpg', caption: 'Best friends today, tomorrow, and always ✨' },
 ]
 
 export default function Polaroid() {

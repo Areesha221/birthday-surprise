@@ -99,7 +99,7 @@ export default function VoiceMessage() {
             onEnded={() => setPlaying(false)}
           />
           <p className="text-center text-cream/80 mt-6 font-script text-xl">
-            A voice just for you, Sir Ji 💙
+            A voice just for you 💙
           </p>
         </motion.div>
       </div>

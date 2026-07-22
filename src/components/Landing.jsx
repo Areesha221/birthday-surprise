@@ -39,32 +39,38 @@ export default function Landing() {
         />
       ))}
 
-      {/* Profile */}
+      {/* Profile Picture */}
       <motion.div
         initial={{ scale: 0, rotate: -180 }}
         animate={{ scale: 1, rotate: 0 }}
         transition={{ duration: 1, type: 'spring' }}
-        className="w-28 h-28 rounded-full border-4 border-gold shadow-2xl overflow-hidden mb-6 animate-glow"
+        className="w-28 h-28 md:w-32 md:h-32 rounded-full border-4 border-gold shadow-2xl overflow-hidden mb-6 animate-glow"
       >
-        <img src="/images/sirji.jpg" alt="Sir Ji" className="w-full h-full object-cover"
-          onError={(e) => e.target.style.display = 'none'} />
+        {/* Note: 'friend.jpg' ki jagah apni friend ki photo ka naam likhna */}
+        <img 
+          src="/images/friend.jpg" 
+          alt="Best Friend" 
+          className="w-full h-full object-cover"
+          onError={(e) => e.target.style.display = 'none'} 
+        />
       </motion.div>
 
       <motion.h1
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.5 }}
-        className="font-serif text-4xl md:text-6xl text-center text-navy mb-2"
+        className="font-serif text-4xl md:text-6xl text-center text-navy mb-2 px-4"
       >
         A Special Birthday Surprise
       </motion.h1>
+      
       <motion.h2
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 1 }}
-        className="font-script text-5xl md:text-7xl gold-text mb-10"
+        className="font-script text-5xl md:text-7xl gold-text mb-10 text-center px-4"
       >
-        For Sir Ji 🎂
+        For My Dearest Friend 💕
       </motion.h2>
 
       {/* Envelope */}
@@ -94,7 +100,7 @@ export default function Landing() {
               {/* Heart seal */}
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-3xl">💌</div>
             </motion.div>
-            <p className="text-center mt-4 font-script text-2xl text-navy">Click to open 💫</p>
+            <p className="text-center mt-4 font-script text-2xl text-navy">Click to open your surprise 💫</p>
           </motion.div>
         )}
       </AnimatePresence>
@@ -114,7 +120,7 @@ export default function Landing() {
             transition={{ duration: 2 }}
             className="absolute text-3xl"
           >
-            {['❤️', '✨', '💙', '🌟', '💫'][i % 5]}
+            {['❤️', '✨', '💖', '🌟', '💫'][i % 5]}
           </motion.div>
         ))}
       </AnimatePresence>

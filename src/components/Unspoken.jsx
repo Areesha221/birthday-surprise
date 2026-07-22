@@ -1,16 +1,16 @@
 import { motion } from 'framer-motion'
 
 const thoughts = [
-  "I never tell you enough, but you're the best thing that's ever happened to me.",
-  "Sometimes I watch you when you're not looking and think: How did I get so lucky?",
-  "I'm scared of a future without you, because I can't imagine one anymore.",
-  "You make me believe in soulmates, in destiny, in forever.",
-  "I fall for you more every single day, even when I didn't think it was possible.",
-  "Thank you for choosing me, over and over again.",
-  "You're my favorite notification, my favorite call, my favorite everything.",
-  "I never knew what real love felt like until you.",
-  "You're worth every fight, every compromise, every moment of patience.",
-  "I'm so proud to call you mine.",
+  "I don't say it enough, but you're honestly the best thing that ever happened to me.",
+  "Sometimes I look at you when you're not paying attention and think: How did I get so lucky to have a friend like you?",
+  "The thought of a future without you scares me, because I can't imagine my life without my bestie.",
+  "You make me believe in platonic soulmates and forever friendships.",
+  "I love our friendship more every single day, even when I didn't think it was possible.",
+  "Thank you for choosing to be my friend, through all the ups and downs.",
+  "You're my favorite notification, my favorite call, and my favorite person to do absolutely nothing with.",
+  "I never knew what true, unconditional friendship felt like until I met you.",
+  "Our bond is worth every silly fight, every compromise, and every moment of patience.",
+  "I'm so incredibly proud to call you my best friend."
 ]
 
 export default function Unspoken() {

@@ -4,7 +4,6 @@ const wishes = [
   "Keep Smiling ✨",
   "May happiness always find you 💙",
   "You deserve the very best 🌟",
-  "The world is better because you're in it 🌍",
   "Never stop being amazing 💫",
   "Some people make life brighter just by existing ✨",
 ]
