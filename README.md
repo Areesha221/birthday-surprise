@@ -8,7 +8,7 @@
 
 A high-performance, interactive web application designed to deliver a premium, personalized digital journey. This project showcases advanced frontend techniques, including smooth scroll animations, audio-visual synchronization, and dynamic UI states.
 
-🔗 **Live Demo:** [https://sirrrrg-special-day.netlify.app/](https://happybirthday-lrkii.netlify.app/)
+🔗 **Live Demo:** [https://happybirthday-lrkii.netlify.app/](https://happybirthday-lrkii.netlify.app/)
 
 ---
 
