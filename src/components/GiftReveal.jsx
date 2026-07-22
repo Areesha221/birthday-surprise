@@ -51,14 +51,14 @@ export default function GiftReveal() {
               >
                 💙
               </motion.div>
-              <h3 className="font-script text-5xl gold-text mb-4">You are the gift, lrkiii</h3>
+              <h3 className="font-script text-5xl gold-text mb-4">You are the Gift</h3>
               <p className="font-hand text-2xl text-navy">
                 You have no idea how incredibly special you are to me. I look at you and I just know I want this forever. Enjoy your surprise 😘❤️
               </p>
               <p className="font-hand text-2xl text-navy"> 
                 Happy Birthday, lrkiii. 🎂
               </p>
-              <img src="/images/sirji.jpg" alt=""
+              <img src="/images/friend.jpg" alt=""
                    className="w-40 h-40 rounded-full mx-auto mt-6 border-4 border-gold object-cover"
                    onError={(e) => e.target.style.display='none'} />
             </motion.div>

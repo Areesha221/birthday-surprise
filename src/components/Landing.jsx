@@ -46,7 +46,6 @@ export default function Landing() {
         transition={{ duration: 1, type: 'spring' }}
         className="w-28 h-28 md:w-32 md:h-32 rounded-full border-4 border-gold shadow-2xl overflow-hidden mb-6 animate-glow"
       >
-        {/* Note: 'friend.jpg' ki jagah apni friend ki photo ka naam likhna */}
         <img 
           src="/images/friend.jpg" 
           alt="Best Friend" 
